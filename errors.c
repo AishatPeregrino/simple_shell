@@ -2,7 +2,7 @@
 
 /**
  *_eputs - prints an input string
- * @str: the string to be printed AishatPeregrino nancykonadu
+ * @str: the string to be printed AishatPeregrino NancyKonadu
  *
  * Return: Nothing
  */
