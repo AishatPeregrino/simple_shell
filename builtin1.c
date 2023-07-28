@@ -14,7 +14,7 @@ int _myhistory(info_t *info)
 }
 
 /**
- * unset_alias - sets alias to string Aishatperegrino NancyYaidom
+ * unset_alias - sets alias to string Aishatperegrino nancykonadu
  * @info: parameter struct
  * @str: the string alias
  *
